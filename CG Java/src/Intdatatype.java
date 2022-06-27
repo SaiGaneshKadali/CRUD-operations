@@ -11,6 +11,9 @@ public class Intdatatype {
 		byte byteMax = 127;
 		byte byteMin = -128;
 	System.out.println (min);
+	System.out.println (byteMax);
+	System.out.println (shortMin);
+	System.out.println (longMax);
 		
 
 	}
